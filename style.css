@@ -1,0 +1,30 @@
+body
+{
+    text-align: center;
+    background-image: url("65e95f24c640d2f798cb578a7b5a097e.jpg");
+}
+
+#app {
+    background-color:teal 
+}
+
+#myCarousel
+{
+    background-color: rgb(22, 154, 163);
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+
+
